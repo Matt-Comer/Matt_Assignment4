@@ -1,4 +1,4 @@
-# iOSApp2 – Scavenger Hunt App
+#  Scavenger Hunt App
 
 ## Assignment 4
 
